@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# I think i need this tracked to deploy via amplify
+#/build
 
 # misc
 .DS_Store
